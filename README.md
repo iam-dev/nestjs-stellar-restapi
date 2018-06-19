@@ -67,8 +67,8 @@ $ npm run test:cov
 
 # API
 ## stellar
-/api/v1/stellar (POST) - to generate a new keypair
-api/v1/stellar/{publicKey} (POST) - to create a new Stellar Blockchain account
+- /api/v1/stellar (POST) - to generate a new keypair
+- /api/v1/stellar/{publicKey} (POST) - to create a new Stellar Blockchain account
 
 ## Testing
 
