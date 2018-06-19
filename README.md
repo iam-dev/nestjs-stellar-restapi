@@ -1,6 +1,4 @@
 <h1 align="center">
-	<img width="250" src="" alt="Microservice with Nestjs">
-  <br>
   <center>
     <strong>Proof of Concept Stellar RESTful Web API using Nestjs Framework</strong>
   </center>
