@@ -1,0 +1,31 @@
+# dependencies
+/node_modules
+
+# Config
+/config/*.ts
+/config/*.js
+
+# distributions files
+dist/
+
+# misc
+npm-debug.log
+package-lock.json
+
+# Text editor #
+######################
+.vscode/*
+*.sublime-workspace
+/.idea
+/.awcache
+/.vscode
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
