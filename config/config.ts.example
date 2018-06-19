@@ -1,0 +1,13 @@
+export const config = {
+  masterAccount: {
+    publicKey: '',
+    secretKey: ''
+  },
+  stellarServer: 'https://horizon-testnet.stellar.org',
+  mongoDb: {
+    host: '@ds1234.mlab.com:41530',
+    database: 'nestjs-stellar-restapi',
+    username: 'example_username',
+    password: 'password1234'
+  }
+}
