@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-	<a href="#resources">Resources</a>
+	<a href="https://www.stellar.org/developers/">Stellar Blockchain</a>
   &nbsp;&nbsp;&nbsp;
 	<a href="../NESTJS.md">Information Nestjs</a>
   &nbsp;&nbsp;&nbsp;
